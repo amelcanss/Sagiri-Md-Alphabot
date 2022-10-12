@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "༺ 𝚂𝚊𝚐𝚒𝚛𝚒 𝙱𝚘𝚝 ༻" //namabot kalian
-global.ownername= "ᴹᴿ᭄ 𝙱𝚊𝚗𝚐 𝙲𝚊𝚑𝚢𝚘 ッ" //nama kalian
+global.botname = "༺ BotzCoy-Md ༻" //namabot kalian
+global.ownername= "ᴹᴿ᭄ jhonatod ッ" //nama kalian
 global.myweb ="https://saweria.co/bngchyo" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCZkSu7CSK9t-LRhW-Nd82_Q" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/bng_chyo" //bebas
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '༺ 𝚂𝚊𝚐𝚒𝚛𝚒-𝙼𝚍 ༻' //sticker wm ubah
-global.author = '🍀 𝐁𝐚𝐧𝐠 𝐂𝐚𝐡𝐲𝐨 🍀' //sticker wm ganti nama kalian
+global.packname = '༺ BotzCoy-Md ༻' //sticker wm ubah
+global.author = '🍀 jhonatod 🍀' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
