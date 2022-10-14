@@ -45,7 +45,7 @@ global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '༺ BotzCoy-Md ༻' //sticker wm ubah
 global.author = '🍀 jhonatod 🍀' //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.typemenu = 'list
+global.typemenu = 'list'
 global.multiplier = 69
 global.limitawal = {
     premium: "10000",
